@@ -17,7 +17,7 @@
 
 | File | Contents |
 |---|---|
-| [00-README.md](00-README.md) | Purpose, objectives, device summary, review/approval, references (this file) |
+| [README.md](README.md) | Purpose, objectives, device summary, review/approval, references (this file) |
 | [01-computer-security.md](01-computer-security.md) | OS updates, Defender, Firewall, Disk Encryption, TPM, Secure Boot, Windows Account — including detailed Control 1–7 verification records |
 | [02-credentials-secrets.md](02-credentials-secrets.md) | Password management, MFA, environment variables/secrets, `.gitignore` policy, secrets exposure review |
 | [03-git-ssh-github.md](03-git-ssh-github.md) | Git security, SSH security, GitHub account security |
